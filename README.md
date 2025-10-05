@@ -18,3 +18,11 @@ A real-time, camera-powered text reader with multilingual OCR and voice playback
 - 🪞 **Mirror Mode** for easy point-and-capture interface
 
 ---
+## 🏁 Getting Started
+
+### 1. Prerequisites
+- Python 3.7+
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) installed (and on your PATH)
+
+- ### 2. Installation
+- 
